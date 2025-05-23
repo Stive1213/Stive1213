@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm ESTIFANOS 👋<br>
-I'm a creative 4th-year Software Engineering student at Wollo University, Ethiopia, with a strong foundation in web development, algorithms, and problem-solving. I enjoy building user-focused projects using technologies like React, JavaScript, Python, PHP, and MySQL, and I'm always eager to learn new tools and frameworks.<br>
+I'm  4th-year Software Engineering student at Wollo University, Ethiopia, with a strong foundation in web development, algorithms, and problem-solving. I enjoy building user-focused projects using technologies like React, JavaScript, Python, PHP, and MySQL, and I'm always eager to learn new tools and frameworks.<br>
 🔍 Currently: Exploring opportunities for software engineering internships in 2025 to apply my skills in real-world projects and grow as a developer.<br>
 💻 Skills: HTML, CSS, JavaScript, React, Python, PHP, MySQL, Git, Django, and responsive design.🌟 Projects: From full-stack web apps to productivity tools, check out my repositories to see my work in action!<br>
 🎯 Goals: Contribute to innovative tech solutions, especially those addressing local challenges in Ethiopia, while honing my skills in collaborative environments.<br>
